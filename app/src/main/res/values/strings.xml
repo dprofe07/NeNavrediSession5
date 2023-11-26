@@ -1,3 +1,118 @@
 <resources>
     <string name="app_name">NeNavredi</string>
+
+    <string-array name="news">
+        <item>Утилизация опасных отходов скидка 10%|26.06.2023|При заключении договора на утилизацию опасных отходов – скидка 10% на разработку паспорта!</item>
+        <item>Полное экологическое сопровождение скидка 25%|26.07.2023|Скидка 25% на полное экологическое сопровождение вашей организации.</item>
+        <item>БЕСПЛАТНАЯ консультация эколога|14.06.2023|БЕСПЛАТНАЯ консультация эколога по предварительному расчету Категории объекта НВОС</item>
+        <item>Бесплатный выезд специалистов на оценку стоимости работ|14.07.2023|Бесплатный и срочный выезд специалистов на осмотр и оценку стоимости работ по освобождению помещений от химических, промышленных отходов, оборудования, техники и офисной мебели</item>
+        <item>Скидка 10% на услуги Консультанта по обращению с отходами|17.06.2023|При заключении договора на регулярный вывоз медицинских отходов – скидка 10% на услуги Консультанта по обращению с отходами (обучение сотрудников, удостоверения гос. образца, пакет документов)</item>
+        <item>Минимальная цена 10000 рублей|17.08.2023|Минимальная цена 10000  рублей за комплексный договор на обезвреживание медицинских отходов А,Б,В,Г!</item>
+        <item>Скидка 35% на вывоз медицинских отходов|18.08.2023|При ежедневном вывозе медицинских отходов из более чем 3 клиник одной сети предоставим скидку 35% от стандартной цены</item>
+        <item>Скидка до 50%|08.08.2023|При утилизации фармацевтических отходов общей массой более 2 тонн предоставим скидку до 50% от стандартной цены</item>
+    </string-array>
+
+    <string-array name="baseUsers">
+        <item>chacking0|4tzqHdkqzo4|Clareta Hacking|phone|email|10.10.1987</item>
+        <item>nmably1|ukM0e6|Northrop Mably|phone|email|10.10.1987</item>
+        <item>frolf2|7QpCwac0yi|Fabian Rolf|phone|email|10.10.1987</item>
+        <item>lraden3|5Ydp2mz|Lauree Raden|phone|email|10.10.1987</item>
+        <item>bfollos4|ckmAJPQV|Barby Follos|phone|email|10.10.1987</item>
+        <item>menterle5|0PRom6i|Mile Enterle|phone|email|10.10.1987</item>
+        <item>mpeaker6|0Tc5oRc|Midge Peaker|phone|email|10.10.1987</item>
+        <item>mrobichon7|LEwEjMlmE5X|Manon Robichon|phone|email|10.10.1987</item>
+        <item>srobken8|Cbmj3Yi|Stavro Robken|phone|email|10.10.1987</item>
+        <item>btidmas9|dYDHbBQfK|Bryan Tidmas|phone|email|10.10.1987</item>
+        <item>jfussiea|EGxXuLQ9|Jeannette Fussie|phone|email|10.10.1987</item>
+        <item>santonaccib|YcXAhY3Pja|Stephen Antonacci|phone|email|10.10.1987</item>
+        <item>nbountiffc|5xfyjS9ZULGA|Niccolo Bountiff|phone|email|10.10.1987</item>
+        <item>cbenjefieldd|tQOsP0ei9TuD|Clemente Benjefield|phone|email|10.10.1987</item>
+        <item>ocorbyne|bG1ZIzwIoU|Orlan Corbyn|phone|email|10.10.1987</item>
+        <item>cstickinsf|QRYADbgNj|Coreen Stickins|phone|email|10.10.1987</item>
+        <item>dclarageg|Yp59ZIDnWe|Daveta Clarage|phone|email|10.10.1987</item>
+        <item>jmccawleyh|g58zLcmCYON|Javier McCawley|phone|email|10.10.1987</item>
+        <item>dbandi|yFAaYuVW|Daile Band|phone|email|10.10.1987</item>
+        <item>abutteryj|ttOFbWWGtD|Angil Buttery|phone|email|10.10.1987</item>
+        <item>kkinmank|qUr6fdWP6L5G|Kyla Kinman|phone|email|10.10.1987</item>
+        <item>sskepperl|jHYN0v3|Selena Skepper|phone|email|10.10.1987</item>
+        <item>ayeolandm|QQezRBV9|Alyson Yeoland|phone|email|10.10.1987</item>
+        <item>cspeedingn|UCLYITfw2Vo|Claudie Speeding|phone|email|10.10.1987</item>
+        <item>ascarisbricko|fzBcv6GbyCp|Alaric Scarisbrick|phone|email|10.10.1987</item>
+        <item>mthurbyp|wg0uIskqei|Marie Thurby|phone|email|10.10.1987</item>
+        <item>croxbroughq|67CVVym|Cloe Roxbrough|phone|email|10.10.1987</item>
+        <item>pmccotterr|QG5tdzRpGZJ2|Pegeen McCotter|phone|email|10.10.1987</item>
+        <item>icallejas|aeDvZk8o9|Iggie Calleja|phone|email|10.10.1987</item>
+        <item>nbroscht|DmPJt2|Nelle Brosch|phone|email|10.10.1987</item>
+        <item>sallseppu|t0ko0854Cpvv|Shae Allsepp|phone|email|10.10.1987</item>
+        <item>eabbatucciv|gUtNdsDu|Eldridge Abbatucci|phone|email|10.10.1987</item>
+        <item>sgarnhamw|eml6RqbK|Skip Garnham|phone|email|10.10.1987</item>
+        <item>rkitchensidex|xaa7miQ7yB|Ric Kitchenside|phone|email|10.10.1987</item>
+        <item>udiy|dHqu78cU6NOP|Urbanus Di Meo|phone|email|10.10.1987</item>
+        <item>mbeidebekez|F5T5spAU9A4O|Monty Beidebeke|phone|email|10.10.1987</item>
+        <item>bsavins10|l6sYf29NLN|Byrann Savins|phone|email|10.10.1987</item>
+        <item>sriby11|Va34LYqFh|Sonnie Riby|phone|email|10.10.1987</item>
+        <item>sbirney12|Ggygo2ePsETs|Sherill Birney|phone|email|10.10.1987</item>
+        <item>ikleanthous13|3H0GS7a|Indira Kleanthous|phone|email|10.10.1987</item>
+        <item>mskerme14|wy1HWA|Maison Skerme|phone|email|10.10.1987</item>
+        <item>hcahey15|NSXcG9khd|Hanan Cahey|phone|email|10.10.1987</item>
+        <item>trusling16|abol9dYC8e|Tore Rusling|phone|email|10.10.1987</item>
+        <item>jde17|gK6Hsl8Q|Jeddy De Souza|phone|email|10.10.1987</item>
+        <item>fmcleoid18|B9zr0N7cJw|Flossi McLeoid|phone|email|10.10.1987</item>
+        <item>nmegainey19|gph7QurFf|Nikoletta Megainey|phone|email|10.10.1987</item>
+        <item>abliven1a|vVxlf94KpeX|Adan Bliven|phone|email|10.10.1987</item>
+        <item>mrossoni1b|nLXj2lS|Mohandis Rossoni|phone|email|10.10.1987</item>
+        <item>nredington1c|DCbOb1SX|Nappie Redington|phone|email|10.10.1987</item>
+        <item>lfrancie1d|DoGeHWuAAM|Lenka Francie|phone|email|10.10.1987</item>
+        <item>ablowin1e|aQygVtMjN|Ashley Blowin|phone|email|10.10.1987</item>
+        <item>vgoroni1f|bWr0QU|Vale Goroni|phone|email|10.10.1987</item>
+        <item>sgrafom1g|JcNcVDAouYzA|Suki Grafom|phone|email|10.10.1987</item>
+        <item>jgianneschi1h|oieX5u3sUfpD|Justis Gianneschi|phone|email|10.10.1987</item>
+        <item>ecollett1i|Y0uMyKB0W|Emilie Collett|phone|email|10.10.1987</item>
+        <item>bterrell1j|hswseW|Byrom Terrell|phone|email|10.10.1987</item>
+        <item>dbifield1k|oYAQ4URihIA|Daphne Bifield|phone|email|10.10.1987</item>
+        <item>bstaig1l|MygqEtjMtUbC|Blanca Staig|phone|email|10.10.1987</item>
+        <item>akennsley1m|CTUdBfJsy6qF|Adriaens Kennsley|phone|email|10.10.1987</item>
+        <item>ebartak1n|y3t4H1|Emlyn Bartak|phone|email|10.10.1987</item>
+        <item>vwillshire1o|VFSLc2t|Victoria Willshire|phone|email|10.10.1987</item>
+        <item>esavin1p|axnJY9s|Egon Savin|phone|email|10.10.1987</item>
+        <item>pelsom1q|OXzMECG|Phillie Elsom|phone|email|10.10.1987</item>
+        <item>asemaine1r|MdJRkHor5SP|Adan Semaine|phone|email|10.10.1987</item>
+        <item>cnorthrop1s|UIwCvTA7MRS0|Constantino Northrop|phone|email|10.10.1987</item>
+        <item>reasson1t|3J0jgg9RWlXs|Rodie Easson|phone|email|10.10.1987</item>
+        <item>aboleyn1u|3q2mQdDRmtr|Alida Boleyn|phone|email|10.10.1987</item>
+        <item>hscholfield1v|1Pbs3K6qXYB|Hill Scholfield|phone|email|10.10.1987</item>
+        <item>ccowpe1w|VHr417Ft0|Cordell Cowpe|phone|email|10.10.1987</item>
+        <item>aeldon1x|rrywOQRmFKyh|Alexandro Eldon|phone|email|10.10.1987</item>
+        <item>kcollin1y|Q0ZV21vew0|Kayle Collin|phone|email|10.10.1987</item>
+        <item>ilarkins1z|DEFNpHtU|Inesita Larkins|phone|email|10.10.1987</item>
+        <item>wlound20|a2G4Ihh2o|Waylin Lound|phone|email|10.10.1987</item>
+        <item>mgillogley21|EjUHfCUFqF|Mechelle Gillogley|phone|email|10.10.1987</item>
+        <item>dmuccino22|E4okVgx|Donal Muccino|phone|email|10.10.1987</item>
+        <item>jleadbetter23|ZNsaKdgb|Joye Leadbetter|phone|email|10.10.1987</item>
+        <item>gtrump24|6XXY7IS26Ci|Gianina Trump|phone|email|10.10.1987</item>
+        <item>rleestut25|zq3C4rUR|Read LeEstut|phone|email|10.10.1987</item>
+        <item>janscott26|5maCRrCZLu|Jill Anscott|phone|email|10.10.1987</item>
+        <item>bdouch27|KAkwrli|Bud Douch|phone|email|10.10.1987</item>
+        <item>cossenna28|vfKJkCeohOzZ|Cicily Ossenna|phone|email|10.10.1987</item>
+        <item>hizzat29|Uifdtu|Hew Izzat|phone|email|10.10.1987</item>
+        <item>egimeno2a|oF1hbmKlZ|Eddie Gimeno|phone|email|10.10.1987</item>
+        <item>sfierro2b|VjUrQ2|Sybyl Fierro|phone|email|10.10.1987</item>
+        <item>ntroup2c|KmDDYf1Pu|Nicol Troup|phone|email|10.10.1987</item>
+        <item>bpattenden2d|IOUkHpOn|Bondy Pattenden|phone|email|10.10.1987</item>
+        <item>acockman2e|fDKhK7OK|Angus Cockman|phone|email|10.10.1987</item>
+        <item>mhanscome2f|xBHzpa7eP0u|Mord Hanscome|phone|email|10.10.1987</item>
+        <item>sleblanc2g|T2et1U5M|Susy Leblanc|phone|email|10.10.1987</item>
+        <item>gciccoloi2h|w4dZ3hxiCiAg|Gerard Ciccoloi|phone|email|10.10.1987</item>
+        <item>ssayburn2i|1hTM7EVKaS|Seamus Sayburn|phone|email|10.10.1987</item>
+        <item>wgentiry2j|z2X9UH5|Washington Gentiry|phone|email|10.10.1987</item>
+        <item>rwestall2k|xLgunbO9x6|Rebekkah Westall|phone|email|10.10.1987</item>
+        <item>ckulic2l|FLHYRN|Court Kulic|phone|email|10.10.1987</item>
+        <item>lroux2m|98cCxHeeK31|Lorilee Roux|phone|email|10.10.1987</item>
+        <item>mrolinson2n|faGzyW8hEca|Modestine Rolinson|phone|email|10.10.1987</item>
+        <item>sellgood2o|3do5MME|Shelbi Ellgood|phone|email|10.10.1987</item>
+        <item>bretchless2p|WraGihh|Barbabra Retchless|phone|email|10.10.1987</item>
+        <item>rjerzak2q|hAp8jki|Robinetta Jerzak|phone|email|10.10.1987</item>
+        <item>vboots2r|bgJfSDEVEQm6|Vance Boots|phone|email|10.10.1987</item>
+        <item>a|123|Vasya Pupkin|+79111111|test@example.com|07.03.1986</item>
+    </string-array>
 </resources>

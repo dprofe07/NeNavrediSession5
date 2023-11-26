@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace 'com.dprofe.nenavredi'
-    compileSdk 32
+    compileSdk 34
 
     defaultConfig {
         applicationId "com.dprofe.nenavredi"
